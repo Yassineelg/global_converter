@@ -1,6 +1,12 @@
 # Global Converter
 
-# <span style="color: orange;">Global Converter</span>
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/FFA500/FFFFFF?text=Global+Converter" alt="Bannière" />
+</p>
+
+<h1 align="center" style="color: orange; font-size: 48px; font-family: 'Arial Black', sans-serif;">
+  Global Converter
+</h1>
 
 Global Converter est une application Java permettant de traduire des messages entre différentes bases numériques, notamment décimale, binaire, octale et hexadécimale. Ce projet a été réalisé dans le cadre du test d'admission à La Plateforme en 2ème année.
 

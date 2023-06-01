@@ -37,16 +37,16 @@ java GlobalConverter <base> <string> [key <encryption key>]
 
 Les valeurs possibles pour `<base>` sont les suivantes :
 
-**hexadecimal**
-**octal**
-**decimal**
-**binary**
-**text**
-**-h**
-**-o**
-**-d**
-**-b**
-**-t**
+- ●**hexadecimal**
+- ●**octal**
+- ●**decimal**
+- ●**binary**
+- ●**text**
+- ●**"-h"**
+- ●**"-o"**
+- ●**"-d"**
+- ●**"-b"**
+- ●**"-t"**
 
 La valeur de `<string>` doit être une chaîne de caractères ne contenant que des caractères alphabétiques et/ou numériques.
 

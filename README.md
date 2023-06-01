@@ -52,4 +52,16 @@ La valeur de `<string>` doit être une chaîne de caractères ne contenant que d
 
 L'argument optionnel `[key <encryption key>]` correspond à une fonctionnalité de chiffrement qui n'est pas encore implémentée.
 
+Ce projet a été réalisé sans utiliser les fonctions systèmes de conversions de Java. Toute conversion a été faite de A à Z.
+
+## Exemple d'utilisation
+
+Voici un exemple d'utilisation des tests unitaires avec la commande "make test":
+
+![carbon](https://github.com/Yassineelg/global_converter/assets/68504782/fe5fc018-e53d-40f8-a35d-a44704b1253d)
+
+Et voici un exemple de conversion du message "Hello world" en hexadecimal :
+
+![carbon2](https://github.com/Yassineelg/global_converter/assets/68504782/f51790e4-8a3f-45e8-98a0-233ef15a308e)
+
 Ceci est la fin du Readme. Merci de votre attention !
